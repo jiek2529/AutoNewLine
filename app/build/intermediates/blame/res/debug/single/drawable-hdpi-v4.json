@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/jiek/git/Ylly_AutoLine/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_txtv_newline_down.9.png",
+        "source": "/Users/jiek/git/Ylly_AutoLine/app/src/main/res/drawable-hdpi/common_txtv_newline_down.9.png"
+    },
+    {
+        "merged": "/Users/jiek/git/Ylly_AutoLine/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_txtv_newline_up.9.png",
+        "source": "/Users/jiek/git/Ylly_AutoLine/app/src/main/res/drawable-hdpi/common_txtv_newline_up.9.png"
+    },
+    {
+        "merged": "/Users/jiek/git/AutoNewLine/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_txtv_newline_up.9.png",
+        "source": "/Users/jiek/git/AutoNewLine/app/src/main/res/drawable-hdpi/common_txtv_newline_up.9.png"
+    },
+    {
+        "merged": "/Users/jiek/git/AutoNewLine/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/jiek/git/AutoNewLine/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jiek/git/AutoNewLine1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_txtv_newline_up.9.png",
+        "source": "/Users/jiek/git/AutoNewLine1/app/src/main/res/drawable-hdpi/common_txtv_newline_up.9.png"
+    },
+    {
+        "merged": "/Users/jiek/git/AutoNewLine1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_txtv_newline_down.9.png",
+        "source": "/Users/jiek/git/AutoNewLine1/app/src/main/res/drawable-hdpi/common_txtv_newline_down.9.png"
+    },
+    {
+        "merged": "/Users/jiek/git/Ylly_AutoLine/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/jiek/git/Ylly_AutoLine/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jiek/git/AutoNewLine1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/jiek/git/AutoNewLine1/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jiek/git/AutoNewLine/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_txtv_newline_down.9.png",
+        "source": "/Users/jiek/git/AutoNewLine/app/src/main/res/drawable-hdpi/common_txtv_newline_down.9.png"
+    }
+]

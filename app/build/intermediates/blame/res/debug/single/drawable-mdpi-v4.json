@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/jiek/git/AutoNewLine/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/Users/jiek/git/AutoNewLine/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jiek/git/Ylly_AutoLine/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/Users/jiek/git/Ylly_AutoLine/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jiek/git/AutoNewLine1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/Users/jiek/git/AutoNewLine1/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    }
+]

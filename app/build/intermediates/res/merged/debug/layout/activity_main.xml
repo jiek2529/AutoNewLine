@@ -1,0 +1,28 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dip">
+
+    <TextView
+        android:id="@+id/tv" android:padding="20dp"
+        android:layout_width="wrap_content" android:text="折叠"
+        android:layout_height="wrap_content" />
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <!--<com.ylly.activity.YllyLinearLayout
+            android:id="@+id/linearlayout"
+            android:layout_width="match_parent" android:background="#ff0000"
+            android:layout_height="wrap_content"
+            android:gravity="center" />-->
+        <com.jiek.activity.JkLinearLayout
+            android:id="@+id/linearlayout_shadow" android:background="#00ff00"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center" />
+    </ScrollView>
+
+</LinearLayout>
